@@ -1,0 +1,6 @@
+/*
+    EN: Visitor separates an algorithm from an object structure by moving the hierarchy of methods into one object.
+ 
+    RU: Позволяет добавлять в программу новые операции не изменяя классы обьектов, над которыми эти операции могут выполнятся.
+  
+*/
